@@ -1,6 +1,6 @@
 # Prakash R, Iyer - 26 Jun 2017
 # Titanic: Getting Started With R - Part 2: The gender-class model
-# Full guide available at http://trevorstephens.com/
+
 
 # Set working directory and import datafiles
 setwd("~/Kaggle/Titanic")
