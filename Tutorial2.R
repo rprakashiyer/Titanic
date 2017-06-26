@@ -1,4 +1,4 @@
-# Trevor Stephens - 9 Jan 2014
+# Prakash R, Iyer - 26 Jun 2017
 # Titanic: Getting Started With R - Part 2: The gender-class model
 # Full guide available at http://trevorstephens.com/
 
